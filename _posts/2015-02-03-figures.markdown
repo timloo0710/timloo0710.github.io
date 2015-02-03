@@ -1,0 +1,276 @@
+APPENDIX I INTERNATIONAL FIGURE CATEGORIES
+----------------------------------------
+----------------------------------------
+#CATEGORY I
+>>><table>
+			<tr>
+				<td>101 </td>
+				<td>Ballet Leg Single</td>
+				<td>1.6</td>
+			</tr>
+			<tr >
+				<td >102</td>
+				<td >Ballet Leg Alternate</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >103</td>
+				<td >Submarine Ballet Leg Single</td>
+				<td >2.1</td>
+			</tr>
+			<tr >
+				<td >110</td>
+				<td >Ballet Leg Double</td>
+				<td >1.7</td>
+			</tr>
+			<tr >
+				<td >111</td>
+				<td >Submarine Ballet Leg Double</td>
+				<td >2.3</td>
+			</tr>
+			<tr >
+				<td >112</td>
+				<td >Ibis</td>
+				<td >2.3</td>
+			<tr >
+				<td >112a</td>
+				<td >Ibis ½ Twist</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >112b</td>
+				<td >Ibis Full Twist</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >112c</td>
+				<td >Ibis Twirl</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >112d</td>
+				<td >Ibis Spinning 180°</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >112e</td>
+				<td >Ibis Spinning 360°</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >112f</td>
+				<td >Ibis Continuous Spin</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >112g</td>
+				<td >Ibis Twist Spin</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >112h</td>
+				<td >Ibis Spin Up 180°</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >112i</td>
+				<td >Ibis Spin Up 360°</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >112j</td>
+				<td >Ibis Combined Spin</td>
+				<td >3.1</td>
+			</tr>
+			
+			</tr>
+>>></table>
+
+
+113
+Crane
+3.5
+115
+Catalina
+2.3
+115a
+Catalina ½ Twist
+2.7
+115b
+Catalina Full Twist
+2.9
+115c
+Catalina Twirl
+2.8
+115d
+Catalina Spinning 180°
+2.4
+115e
+Catalina Spinning 360°
+2.5
+115f
+Catalina Continuous Spin
+2.8
+115g
+Catalina Twist Spin
+3.0
+115h
+Catalina Spin Up 180°
+2.6
+115i
+Catalina Spin Up 360°
+2.7
+115j
+Catalina Combined Spin
+3.1
+116
+Catalarc
+3.1
+117
+Catalarc Open 180°
+3.2
+118
+Helicopter
+2.5
+125
+Eiffel Tower
+2.8
+125a
+Eiffel Tower ½ Twist
+3.2
+125b
+Eiffel Tower Full Twist
+3.4
+#CATEGORY II
+>>><table>
+			<tr>
+				<td>201 </td>
+				<td>Dolphin</td>
+				<td>1.4</td>
+			</tr>
+			<tr >
+				<td >240</td>
+				<td >Albatross</td>
+				<td >2.2</td>
+			</tr>
+			<tr >
+				<td >240a</td>
+				<td >Albatross ½ Twist</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >240b</td>
+				<td >Albatross Full Twist</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >240c</td>
+				<td >Albatross Twirl</td>
+				<td >2.7</td>
+			</tr>
+		
+>>></table>
+# CATEGORY III
+>>><table>
+			<tr>
+				<td>301 </td>
+				<td>Barracuda</td>
+				<td>2.0</td>
+			</tr>
+			<tr >
+				<td >301c</td>
+				<td >Barracuda Twirl</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >301d</td>
+				<td >Barracuda Spinning 180°</td>
+				<td >2.1</td>
+			</tr>
+			<tr >
+				<td >301e</td>
+				<td >Barracuda Spinning 360°</td>
+				<td >2.2</td>
+			</tr>
+			<tr >
+				<td >301f</td>
+				<td >Barracuda Continuous Spin</td>
+				<td >2.8</td>
+			</tr>
+		
+>>></table>
+
+
+#CATEGORY IV
+>>><table>
+			<tr>
+				<td>401 </td>
+				<td>Swordfish</td>
+				<td>2.0</td>
+			</tr>
+			<tr >
+				<td >402</td>
+				<td >Swordasub</td>
+				<td >2.3</td>
+			</tr>
+			<tr >
+				<td >403</td>
+				<td >Swordtail</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >405</td>
+				<td >Swordalina</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >406</td>
+				<td >Swordfish Straight Leg</td>
+				<td >2.0</td>
+			</tr>
+			<tr >
+				<td >410</td>
+				<td >Hightower</td>
+				<td >3.3</td>
+			</tr>
+			<tr >
+				<td >413</td>
+				<td >Alba</td>
+				<td >2.4</td>
+			</tr>
+		
+>>></table>
+
+APPENDIX II
+--------------
+>#BASIC POSITIONS
+>>*In all basic positions:
+>>>**a) arm positions are optional,
+>>>**b) toes must be pointed,
+>>>**c) the legs, trunk and neck fully extended unless otherwise specified, and
+>>>**d) diagrams show the usual water levels.
+
+>#1 BACK LAYOUT POSITION
+>>Body extended with face, chest, thighs and feet at the surface. 
+Head (ears specifically), hips, and ankles in line.
+
+>#2 FRONT LAYOUT POSITION
+>>Body extended with head, upper back, buttocks and heels at the surface. 
+Face may be in or out of the water.
+
+>#3 BALLET LEG POSITION
+>>>**a) Surface
+>>>>Body in Back Layout Position. One leg extended perpendicular to the surface
+>>>**b) Submerged
+>>>>Head, trunk and horizontal leg parallel to the surface. 
+One leg perpendicular to the surface with the water level between the knee and the ankle.
+
+>#4 FLAMINGO POSITION
+>>>**a) Surface
+>>>>One leg extended perpendicular to the surface. 
+The other leg drawn to the chest with the mid-calf opposite the vertical leg, 
+foot and knee at and parallel to the surface. Face at the surface.
+>>>**b) Submerged
+>>>>Trunk, head and shin of the bent leg parallel to the surface. 
+90 angle between the trunk and extended leg. 
+Water level between knee and ankle of the extended leg
