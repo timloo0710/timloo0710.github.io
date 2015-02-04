@@ -1,3 +1,4 @@
+
 APPENDIX I INTERNATIONAL FIGURE CATEGORIES
 ----------------------------------------
 ----------------------------------------
@@ -84,63 +85,97 @@ APPENDIX I INTERNATIONAL FIGURE CATEGORIES
 				<td >Ibis Combined Spin</td>
 				<td >3.1</td>
 			</tr>
+			<tr >
+				<td >113</td>
+				<td >Crane</td>
+				<td >3.5</td>
+			</tr>
+			<tr >
+				<td >115</td>
+				<td >Catalina</td>
+				<td >2.3</td>
+			</tr>
+			<tr >
+				<td >115a</td>
+				<td >Catalina ½ Twist</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >115b</td>
+				<td >Catalina Full Twist</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >115c</td>
+				<td >Catalina Twirl</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >115d</td>
+				<td >Catalina Spinning 180°</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >115e</td>
+				<td >Catalina Spinning 360°</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >115f</td>
+				<td >Catalina Continuous Spin</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >115g</td>
+				<td >Catalina Twist Spin</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >115h</td>
+				<td >Catalina Spin Up 180°</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >115i</td>
+				<td >Catalina Spin Up 360°</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >115j</td>
+				<td >Catalina Combined Spin</td>
+				<td >3.1</td>
+			</tr>
+			<tr >
+				<td >116</td>
+				<td >Catalarc</td>
+				<td >3.1</td>
+			</tr>
+			<tr >
+				<td >117</td>
+				<td >Catalarc Open 180°</td>
+				<td >3.2</td>
+			</tr>
+			<tr >
+				<td >118</td>
+				<td >Helicopter</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >125</td>
+				<td >Eiffel Tower</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >125a</td>
+				<td >Eiffel Tower ½ Twist</td>
+				<td >3.2</td>
+			</tr>
+			<tr >
+				<td >125b</td>
+				<td >Eiffel Tower Full Twist</td>
+				<td >3.4</td>
+			</tr>
 >>></table>
-
-
-113
-Crane
-3.5
-115
-Catalina
-2.3
-115a
-Catalina ½ Twist
-2.7
-115b
-Catalina Full Twist
-2.9
-115c
-Catalina Twirl
-2.8
-115d
-Catalina Spinning 180°
-2.4
-115e
-Catalina Spinning 360°
-2.5
-115f
-Catalina Continuous Spin
-2.8
-115g
-Catalina Twist Spin
-3.0
-115h
-Catalina Spin Up 180°
-2.6
-115i
-Catalina Spin Up 360°
-2.7
-115j
-Catalina Combined Spin
-3.1
-116
-Catalarc
-3.1
-117
-Catalarc Open 180°
-3.2
-118
-Helicopter
-2.5
-125
-Eiffel Tower
-2.8
-125a
-Eiffel Tower ½ Twist
-3.2
-125b
-Eiffel Tower Full Twist
-3.4
 
 #CATEGORY II
 
