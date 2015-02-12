@@ -170,11 +170,13 @@ T<a name="toc">able of Contents</a>
 
 	
 <a name="general">SS 1 General</a>  
+====================
 ------------
 
 All international Synchronised Swimming competitions shall be held under FINA rules.
 
 <a name="competitions">SS 2 Competitions</a>  
+====================
 -----------------
 
 The events of Synchronised Swimming are 
@@ -182,6 +184,7 @@ Solos, Duets, Teams, Free Combination and Highlight Routine.
 Note: Highlight routine for World Trophy and World Cup only.
 
 <a name="eligibility">SS 3 Eligibility</a>  
+====================
 ----------------
 
 Competitors in Synchronised Swimming younger than fifteen (15) years of age 
@@ -189,6 +192,7 @@ Competitors in Synchronised Swimming younger than fifteen (15) years of age
 the Olympic Games, World Championships or World Cups.
 
 <a name="sessions">SS 4 SESSIONS</a>
+====================
 ----------------
 
 >#SS 4.1 Figures 
@@ -233,6 +237,7 @@ the Olympic Games, World Championships or World Cups.
 
 
 <a name="programmes">SS 5 PROGRAMMES</a>
+====================
 ----------------
 
 ># SS 5.1 For Olympic Games, Teams: 
@@ -373,6 +378,7 @@ and shall be public. Place and time shall be announced at least twenty-four (24)
 >>>>>[RETURN](#toc)
 
 <a name="figure-panels">SS 9 FIGURE PANELS</a>
+====================
 ---------------------
 
 ># SS 9.1 When qualified judges are available in sufficient numbers one (1), two (2) or four (4) panels of six (6) or seven (7) judges may officiate.
@@ -394,6 +400,7 @@ and shall be public. Place and time shall be announced at least twenty-four (24)
 >>>>>[RETURN](#toc)
 
 <a name="judgment-of-figures">SS 10 JUDGEMENT OF FIGURES</a>
+====================
 --------------------------
 
 ># SS 10.1 All judgments are made from the standpoint of perfection.
@@ -449,6 +456,7 @@ shall be computed and shall be considered as that of the missing award. This sha
 >>>>>[RETURN](#toc)
 
 <a name="penalties">SS 11 PENALTIES IN FIGURE SESSION</a>
+====================
 ---------------------------------
 
 ># SS 11.1 A two (2) point penalty shall be deducted (see [SS 12.2]).
@@ -465,6 +473,7 @@ shall be computed and shall be considered as that of the missing award. This sha
 >>>>>[RETURN](#toc)
 
 <a name="calculation">SS 12 CALCULATION OF THE FIGURE RESULT</a>
+====================
 ----------------------------------------
 
 ># SS 12.1 The highest and the lowest awards are cancelled (one of each). 
@@ -495,6 +504,7 @@ shall be computed and shall be considered as that of the missing award. This sha
 >>>>>[RETURN](#toc)
 
 <a name="routine-sessions">SS 13 ROUTINE SESSIONS</a>
+====================
 ----------------------------------------
 
 ># SS 13.1 A team shall consist of at least four (4) but not more than eight (8) competitors 
@@ -577,6 +587,7 @@ towers or human pyramids.
 	the competitor will not be permitted to compete until changing into appropriate swimwear.
 
 <a name="time-limits">SS 14 TIME LIMITS FOR ROUTINES</a>
+====================
 ----------------------------------------
 
 ># SS 14.1 Time limits for 
@@ -620,6 +631,7 @@ Routines may start on the deck or in the water, but they must finish in the wate
 that of the deck movements. The times shall be recorded on the score sheet. If the time limit is exceeded for the deck work or there is a deviation from the routine time limit allowance (see SS 14.1) the timers shall advise the referee or the appointed official designated by the referee.
 
 <a name="music">SS 15 MUSIC ACCOMPANIMENTS</a>
+====================
 ----------------------------------------
 
 ># SS 15.1 The Sound Center Manager shall be responsible for the
@@ -643,6 +655,7 @@ the Sound Center Manager will be responsible for correct execution of the music.
 
 
 <a name="routine-panels">SS 16 ROUTINE PANELS</a>
+====================
 ----------------------------------------
 
 ># SS 16.1 Three (3) panels of five (5) judges must officiate: in Free Routines, Free Combination and Highlight Routine one for Execution, one for Artistic Impression and one for Difficulty, and in Technical Routines one for Execution one for Impression and one for Elements.
@@ -677,6 +690,7 @@ has made no award for a routine, the average of the awards of the other judges
 ># SS 16.5 After approval by the referee or the appointed official, judges’ scores may be flashed on the score board or be sent to the computer.
 
 <a name="judgment-of-routines">SS 17 JUDGEMENT OF ROUTINES</a>
+====================
 ----------------------------------------
 
 ># SS 17.1 In Routines the competitor can obtain points from 0 – 10 using 1/10th points.
@@ -870,7 +884,9 @@ has made no award for a routine, the average of the awards of the other judges
 
 ># SS 17.4 In the Technical Routine, if a judge on the Element Panel by reason of unforeseen circumstances has made no award for a particular element (a zero) the referee will review the official video. If the element has been executed, then the average of the awards of the other four judges shall be computed and shall be considered as the missing award. This shall be calculated to the nearest 0.1 point.
 
+
 <a name="deductions-and-penalties">SS 18 DEDUCTIONS AND PENALTIES IN ROUTINES</a>
+====================
 -----------------------------------------
 
 >#SS 18.1 In Team competition, whether in Free Routine Preliminary, 
@@ -923,6 +939,7 @@ the Referee shall allow the routine to be reswim during the session.
 each required element omitted.
 
 <a name="calculation-of-the-routine-results">SS 19 CALCULATION OF THE ROUTINE RESULTS</a>
+====================
 ----------------------------------------
 
 >#SS 19.1 For each panel of the Free Routine, 
@@ -1243,6 +1260,7 @@ Execution, Artistic Impression and Difficulty scores
  less any penalty deductions from rules [SS 18.1], [SS 18.2] and [SS 18.3].
 
 <a name="final-result">SS 20 FINAL RESULT</a>
+====================
 ------------------
 
 ># SS 20.1 The final figure result shall be that of the competitors who actually swam the Free Routine. For exceptions see rule SS 12.3.4.
@@ -1269,6 +1287,7 @@ In case of a tie, the Final result according to [SS 20]
 of all events shall be added and the higher total sum shall decide.
 
 <a name="officials-and-duties">SS 21 OFFICIALS AND DUTIES</a>
+====================
 ------------------
 
 >#SS 21.1 Officials shall be chosen by the Management Committee. Their choice shall be final except emergency situation (see SS 22.3 and SS 22.4)
@@ -1296,6 +1315,7 @@ At FINA competitions, judges shall be chosen from the FINA list of judges.
 >>##SS 21.2.9 Other officials as deemed necessary
 
 <a name="referee">SS 22 REFEREE</a>
+====================
 ------------------
 
 >#SS 22.1 The Referee shall have full control of the event. He/she shall instruct all officials.
@@ -1313,6 +1333,7 @@ At FINA competitions, judges shall be chosen from the FINA list of judges.
 >#SS 22.7 The referee shall disqualify any competitor for any violation of the rules that he/she personally observes or which is reported to her/him by other authorised officials.
 
 <a name="other-officials">SS 23 OTHER OFFICIALS</a>
+====================
 ------------------
 
 >#SS 23.1 The assistant referee(s) shall carry out duties assigned by the referee.
@@ -1332,6 +1353,7 @@ At FINA competitions, judges shall be chosen from the FINA list of judges.
 >#SS 23.5 The announcer shall make only such announcements as are authorised by the Referee.
 
 <a name="duties-of-the-organiser">SS 24 DUTIES OF ORGANISER</a>
+====================
 ------------------
 
 >#SS 24.1 The country holding the competition is responsible for:
@@ -1380,6 +1402,7 @@ Pool dimensions with specific reference to the depth of the water,
 >>##SS 24.2.7 Schedule of events, indicating which sessions (per SS 4) will be included in the programme (SS 5) and stating whether preliminaries and finals will be held according to SS 7.1 and SS 7.2.
 
 <a name="age-group-rules">AGE GROUP RULES</a>
+====================
 ------------------
 
 >#SSAG 1 FINA Rules of competition will apply in all Age Group competitions.
