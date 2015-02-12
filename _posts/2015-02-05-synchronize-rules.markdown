@@ -64,7 +64,7 @@ T<a name="toc">able of Contents</a>
 	* [SS 11.1.1 stops voluntarily](#11-1-1)
 	* [SS 11.1.2 does not perform the announced figure](#11-1-2)
 	* [SS 11.2 does not attempt to perform the figure again](#11-2)
-* [SS 12 Calculation of the Figure Result](#calculation)
+* [SS 12 Calculation of the Figure Result](#calculation) #MID
 	* [SS 12.1 highest and the lowest awards are cancelled](#12-1)
 	* [SS 12.2 sum of the four figures shall be divided](#12-2)
 	* [SS 12.3 figure result](#12-3)
@@ -111,7 +111,7 @@ T<a name="toc">able of Contents</a>
 	* [SS 16.3.1 First panel – EXECUTION Score - 30%](#17-2-1)
 	* [SS 16.4 If a judge by reason of illness or other unforeseen circumstances](#17-2)
 	* [SS 16.5 After approval by the referee or the appointed official](#17-2)
-	* [SS 17 Judgment of Routines](#judgment-of-routines)
+* [SS 17 Judgment of Routines](#judgment-of-routines)
 	* [SS 17.1 In Routines the competitor can obtain points](#17-1)
 	* [SS 17.2 each judge shall award one score](#17-2)
 	* [SS 17.2.1 First panel – EXECUTION Score - 30%](#17-2-1)
@@ -123,13 +123,42 @@ T<a name="toc">able of Contents</a>
 	* [SS 17.3.3 Third panel – ELEMENTS Score - 40%](#17-3-2)
 	* [SS 17.4 In the Technical Routine](#17-4)
 * [SS 18 Deductions and Penalties in Routines](#deductions-and-penalties)
+	* [SS 18.1 one half point penalty shall be deducted](#18-1)
+	* [SS 18.2 one (1) point penalty shall be deducted](#18-2)
+	* [SS 18.2.1 The time limit of ten (10) seconds](#18-2-1)
+	* [SS 18.2.2 deviation from the specified routine time limit](#18-2-2)
+	* [SS 18.2.3 deck walk-on is exceeded](#18-2-3)
+	* [SS 18.2.4 Each violation](#18-2-4)
+	* [SS 18.2.5 deliberate use of the bottom of the pool](#18-2-5)
+	* [SS 18.2.6 music accompaniment fails](#18-2-6)
+	* [SS 18.2.7 two (2) point penalty shall be deducted](#18-2-7)
+	* [SS 18.2.8 interrupted by](#18-2-8)
+	* [SS 18.2.9 executing stacks, towers or human pyramids](#18-2-9)
+	* [SS 18.3 A half-point (0,5) penalty](#18-3)
+	* [SS 18.4 one (or more) competitor(s) stops swimming](#18-4)
+	* [SS 18.5 Penalties in Highlight Routine](#18-5)
+	* [SS 18.5.1 A two (2) point penalty](#18-5-1)
 * [SS 19 Calculation of the Routine Results](#calculation-of-the-routine-results)
+	* [SS 19.1 each panel of the Free](#19-1)
+	* [SS 19.2 each panel of the Technical](#19-2)
+	* [SS 19.3 sum of ](#19-3)
 * [SS 20 Final Result](#final-result)
 * [SS 21 Officials and Duties](#officials-and-duties)
 * [SS 22 Referee](#referee)
 * [SS 23 Other Officials](#other-officials)
 * [SS 24 Duties of the Organiser](#duties-of-the-organiser)
 * [SSAG  Age Group Rules](#age-group-rules)
+	* [SSAG 1 apply in all Age Group](#ssag-1)
+	* [SSAG 2 Age Categories](#ssag-2)
+		* [SSAG 2.1 apply in all Age Group](#ssag-2-1)
+		* [SSAG 2.2 apply in all Age Group](#ssag-2-2)
+	* [SSAG 3 Age Group figure sessions](#ssag-3)
+		* [SSAG 3.1 two (2) compulsory figures](#ssag-3-1)
+		* [SSAG 3.2 Figure lists](#ssag-3-2)
+		* [SSAG 3.3 divided by the total degree of difficulty](#ssag-3-3)
+	* [SSAG 4 must swim the same figure groups](#ssag-4)
+	* [SSAG 5 not swim out of their age group](#ssag-5)
+	* [SSAG 6 including ten (10) seconds of deck movements](#ssag-6)
 	* [Appendix I    International Figure Categories](#figure-categories)
 	* [Appendix II   Basic Positions](#basic-positions)
 	* [Appendix III  Basic Movements](#basic-movements)
@@ -139,6 +168,7 @@ T<a name="toc">able of Contents</a>
 	* [Appendix VII  FINA Required Elements for Highlight Routine  2013 - 2017](#fina-required-elements-for-highlight-routine)
 	* [Appendix VIII Forms for Synchronised Swimming](#forms)
 
+	
 <a name="general">SS 1 General</a>  
 ------------
 
@@ -843,34 +873,71 @@ has made no award for a routine, the average of the awards of the other judges
 <a name="deductions-and-penalties">SS 18 DEDUCTIONS AND PENALTIES IN ROUTINES</a>
 -----------------------------------------
 
->#SS 18.1 In Team competition, whether in Free Routine Preliminary, Free Routine Final or Technical Routine, one half point penalty shall be deducted from the total score for each member less than eight (8) (see SS 13.1).
->#SS 18.2 Penalties in Free Routines, Technical Routines, Free Combination and Highlight Routine:
->>>A one (1) point penalty shall be deducted from the routine score if:
+>#SS 18.1 In Team competition, whether in Free Routine Preliminary, 
+Free Routine Final or Technical Routine, 
+one half point penalty shall be deducted 
+from the total score for each member less than eight (8) (see SS 13.1).
+
+>#SS 18.2 Penalties in Free Routines, Technical Routines, 
+Free Combination and Highlight Routine:
+>>>A one (1) point penalty shall be deducted from the routine score
+ if:
+
 >>##SS 18.2.1 The time limit of ten (10) seconds for deck movements is exceeded.
->>##SS 18.2.2 There is a deviation from the specified routine time limit allowed (less or more than) for the routine and in accordance with SS 14.1 and SSAG 6.
+
+>>##SS 18.2.2 There is a deviation from the specified routine time limit allowed
+ (less or more than) for the routine and in accordance with [SS 14.1] and [SSAG 6].
+
 >>##SS 18.2.3 If the time limit of 30 seconds for the deck walk-on is exceeded.
->>##SS 18.2.4 Each violation of rule SS 13.2.
->>##SS 18.2.5 A competitor has made a deliberate use of the bottom of the pool during the routine.
->>##SS 18.2.6 As described in SS 15.3, if the music accompaniment fails.
+
+>>##SS 18.2.4 Each violation of rule [SS 13.2].
+
+>>##SS 18.2.5 A competitor has made a deliberate use of the bottom of the pool 
+during the routine.
+
+>>##SS 18.2.6 As described in [SS 15.3], if the music accompaniment fails.
+
 >>>A two (2) point penalty shall be deducted from the routine score if:
->>##SS 18.2.7 A competitor has made a deliberate use of bottom of the pool during a routine to assist another competitor.
->>##SS 18.2.8 A routine is interrupted by a competitor during the deck movements and a new start is allowed.
->>##SS 18.2.9 If during the deck movements in routines competitors are executing stacks, towers or human pyramids.
->#SS 18.3 A half-point (0,5) penalty shall be deducted from the Execution score for violations of Duet required element 6 and 7 and Team required element 6 and 7 of the Appendix VI
->#SS 18.4 If one (or more) competitor(s) stops swimming before the routine is completed the routine will be disqualified. If the cessation is caused by circumstances beyond the control of the competitor(s), the Referee shall allow the routine to be reswim during the session.
+
+>>##SS 18.2.7 A competitor has made a deliberate use of bottom of the pool 
+during a routine to assist another competitor.
+
+>>##SS 18.2.8 A routine is interrupted by a competitor during the deck movements 
+and a new start is allowed.
+
+>>##SS 18.2.9 If during the deck movements in routines 
+competitors are executing stacks, towers or human pyramids.
+
+>#SS 18.3 A half-point (0,5) penalty shall be deducted from the Execution score 
+for violations of Duet required [element 6 and 7] and Team required [element 6 and 7 ]
+of the [Appendix VI]
+
+>#SS 18.4 If one (or more) competitor(s) stops swimming before the routine is 
+completed the routine will be disqualified. 
+If the cessation is caused by circumstances beyond the control of the competitor(s), 
+the Referee shall allow the routine to be reswim during the session.
+
 >#SS 18.5 Penalties in Highlight Routine
-SS 18.5.1 A two (2) point penalty shall be deducted from the routine score for each required element omitted.
+
+>>##SS 18.5.1 A two (2) point penalty shall be deducted from the routine score for 
+each required element omitted.
 
 <a name="calculation-of-the-routine-results">SS 19 CALCULATION OF THE ROUTINE RESULTS</a>
 ----------------------------------------
 
-#SS 19.1 For each panel of the Free Routine, Free Combination and Highlight Routine (Execution, Artistic Impression, and Difficulty), the score should be calculated as follows for each category.
+>#SS 19.1 For each panel of the Free Routine, 
+Free Combination and Highlight Routine 
+(Execution, Artistic Impression, and Difficulty), 
+the score should be calculated as follows for each category.
 
 >> The highest and the lowest awards for each panel are cancelled (one high, one low).
 >> The Execution score is the sum of the three (3) remaining awards in the category.
->> The Artistic Impression score is the sum of the three (3) remaining awards in the category, divided by 3 and multiplied by 4.
-The Difficulty score is the sum of the three (3) remaining awards in the category.
-The Free Routine score, Free Combination and Highlight Routine shall be the sum of the Execution score (30%), Artistic Impression Score (40%) and Difficulty Score (30%), less any penalty deductions from rules SS 18.1 and 18.2.
+>> The Artistic Impression score is the sum of the three (3) remaining awards in the category,
+ divided by 3 and multiplied by 4.
+>> The Difficulty score is the sum of the three (3) remaining awards in the category.
+>> The Free Routine score, Free Combination and Highlight Routine shall be the sum of
+ the Execution score (30%), Artistic Impression Score (40%) and Difficulty Score (30%), 
+ less any penalty deductions from rules [SS 18.1] and [18.2].
 
 >>>### FREE ROUTINES - EXAMPLES WITH 5 JUDGE PANELS
 
@@ -955,113 +1022,225 @@ The Free Routine score, Free Combination and Highlight Routine shall be the sum 
 			</tr>
 >>></table>
 
->#SS 19.2 For each panel of the Technical Routine (Execution, Impression, and Elements), the score should be calculated as follows for each category.
+>#SS 19.2 For each panel of the 
+Technical Routine (Execution, Impression, and Elements), 
+the score should be calculated as follows for each category.
 >>Execution score: The highest and the lowest awards are cancelled (one high, one low). The three remaining awards in the category are added.
 >>Impression score: The highest and the lowest awards are cancelled (one high, one low). The three remaining awards in the category are added.
 >>Elements score: for each of the required elements with an assigned degree of difficulty, the highest and the lowest awards are cancelled (one high, one low) for each set of awards. The remaining three (3) awards are added, and the sum divided by three (3). The result is multiplied by the degree of difficulty for that element. The sum of the element scores shall be divided by the total degree of difficulty for the required elements and multiplied by 10. This result is multiplied by .4
 >>The Technical Routine score shall be the sum of the Execution score (30%),
  the Impression Score (30%), and the Elements score (40%),
- less any penalty deductions from rules SS 18.1, 18.2 and 18.3.
+ less any penalty deductions from rules [SS 18.1], [18.2] and [18.3].
 
 >>>TECH ROUTINES - EXAMPLES WITH 5 JUDGE PANELS
 
-WT
-1
-2
-3
-4
-5
-TOT-HILO
-AVER
-CALC
-EXEC
-30%
-8.5
-8.7
-8.6
-8.8
-8.6
-25.9
-8.6333
-25.9000
-25.9000
-30%
-IMPR
-30%
-8.6
-8.3
-8.8
-8.4
-8.4
-25.4
-8.4667
-25.4000
-25.4000
-30%
-ELEM
-DD
-#1
-2.3
-8.1
-7.9
-8.1
-7.8
-8.2
-24.1
-8.0333
-18.4767
-#2
-2.9
-8.4
-8.5
-8.8
-8.6
-8.6
-25.7
-8.5667
-24.8433
-#3
-1.7
-8.6
-8.4
-8.7
-8.5
-8.8
-25.8
-8.6000
-14.6200
-#4
-2.7
-8.5
-8.3
-8.5
-8.4
-8.4
-25.3
-8.4333
-22.7700
-#5
-2.5
-8.6
-8.7
-8.9
-8.5
-8.3
-25.8
-8.6000
-21.5000
-SUM DD
-12.1
-RAW TOTAL
-102.2100
-Divide by 12.1 x 10
-84.4711
-33.7884
-40%
-TOTAL
-85.0884
+>>><table>
+			<tr>
+				<td> </td>
+				<td>WT </td>
+				<td>1 </td>
+				<td>2 </td>
+				<td>3 </td>
+				<td>4 </td>
+				<td>5 </td>
+				<td>TOT-HI.LO</td>
+				<td>AVER </td>
+				<td>CALC </td>
+				<td> </td>
+				<td> </td>
+			</tr>
+			<tr >
+				<td>EXEC </td>
+				<td>30%</td>
+				<td>8.5</td>
+				<td>8.7 </td>
+				<td>8.6 </td>
+				<td>8.8 </td>
+				<td>8.6 </td>
+				<td>25.9 </td>
+				<td>8.6333 </td>
+				<td>25.9000 </td>
+				<td>25.9000 </td>
+				<td> 30%</td>
+			</tr>
+			<tr >
+				<td>IMPR</td>
+				<td>30%</td>
+				<td>8.6</td>
+				<td>8.3 </td>
+				<td>8.8 </td>
+				<td>8.4 </td>
+				<td>8.4 </td>
+				<td>25.4 </td>
+				<td>8.4667 </td>
+				<td>25.4000 </td>
+				<td>25.4000 </td>
+				<td> 30%</td>
+			</tr>
+			<tr>
+				<td>ELEM </td>
+				<td>DD </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+			</tr>
+			<tr >
+				<td>#1</td>
+				<td>2.3</td>
+				<td>8.1</td>
+				<td>7.9 </td>
+				<td>8.1 </td>
+				<td>7.8 </td>
+				<td>8.2 </td>
+				<td>24.1 </td>
+				<td>8.0333 </td>
+				<td>18.4767 </td>
+				<td> </td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td>#2 </td>
+				<td>2.9 </td>
+				<td>8.4 </td>
+				<td>8.5 </td>
+				<td>8.8 </td>
+				<td>8.6 </td>
+				<td>8.6 </td>
+				<td>25.7 </td>
+				<td>8.5667</td>
+				<td>24.8433</td>
+				<td></td>
+				<td> </td>
+			</tr>
+			<tr>
+			<tr>
+				<td>#3 </td>
+				<td>1.7 </td>
+				<td>8.6 </td>
+				<td>8.4 </td>
+				<td>8.7 </td>
+				<td>8.5 </td>
+				<td>8.8 </td>
+				<td>25.8 </td>
+				<td>8.6000</td>
+				<td>14.6200</td>
+				<td></td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td>#4 </td>
+				<td>2.7 </td>
+				<td>8.5 </td>
+				<td>8.3 </td>
+				<td>8.5 </td>
+				<td>8.4 </td>
+				<td>8.4 </td>
+				<td>25.3 </td>
+				<td>8.4333</td>
+				<td>22.7700</td>
+				<td></td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td>#5 </td>
+				<td>2.5 </td>
+				<td>8.6 </td>
+				<td>8.7 </td>
+				<td>8.9 </td>
+				<td>8.5 </td>
+				<td>8.3 </td>
+				<td>25.8 </td>
+				<td>8.6000</td>
+				<td>21.5000</td>
+				<td></td>
+				<td> </td>
+			</tr>
+				<td> SUM DD</td>
+				<td>12.1</td>
+				<td></td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td>RAW TOTAL </td>
+				<td>102.2100 </td>
+				<td> </td>
+				<td> </td>
+			</tr>
+			</tr>
+				<td> </td>
+				<td></td>
+				<td></td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td>Divide by 12.1 </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+			</tr>
+			</tr>
+				<td> </td>
+				<td></td>
+				<td></td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td>x 10 </td>
+				<td>84.4711 </td>
+				<td>33.7884 </td>
+				<td>40% </td>
+			</tr>
+			</tr>
+				<td> </td>
+				<td></td>
+				<td></td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+			</tr>
+			</tr>
+				<td> </td>
+				<td></td>
+				<td></td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td></td>
+				<td>TOTAL </td>
+				<td>85.0884 </td>
+				<td> </td>
+			</tr>
+			
+>>></table>
 
-SS 19.3 The routine score shall be the sum of the Execution, Artistic Impression and Difficulty scores (Free Routine, Free Combination and Highlight Routine) or Execution, Impression and Elements scores (Technical Routine), less any penalty deductions from rules SS 18.1, SS 18.2 and SS 18.3.
+
+>#SS 19.3 The routine score shall be the sum of the 
+Execution, Artistic Impression and Difficulty scores 
+(Free Routine, Free Combination and Highlight Routine) or
+ Execution, Impression and Elements scores (Technical Routine), 
+ less any penalty deductions from rules [SS 18.1], [SS 18.2] and [SS 18.3].
 
 <a name="final-result">SS 20 FINAL RESULT</a>
 ------------------
@@ -1085,8 +1264,9 @@ If they are still the same, the Elements score of the Technical Routine determin
 For Free Combination and Highlight Routine:
 The higher Execution score shall decide.
 If they are still the same, the higher Artistic Impression score shall decide.
-For competitions with point system GR 9.8.5 and BL 10.4
-In case of a tie, the Final result according to SS 20 of all events shall be added and the higher total sum shall decide.
+For competitions with point system [GR 9.8.5] and [BL 10.4]
+In case of a tie, the Final result according to [SS 20] 
+of all events shall be added and the higher total sum shall decide.
 
 <a name="officials-and-duties">SS 21 OFFICIALS AND DUTIES</a>
 ------------------
@@ -1095,16 +1275,25 @@ In case of a tie, the Final result according to SS 20 of all events shall be add
 
 >#SS 21.2 The required officials shall be:
 
-  SS 21.2.1 A Referee
- SS 21.2.2 An assistant referee for routines and an assistant referee for each panel of judges in figures.
- SS 21.2.3 Each panel of Figure judges shall consist of six (6) or seven (7) judges. In Routines three (3) panels of five (5) judges shall be used. If three panels are used, in Free Routine, Free Combination and Highlight Routine sessions, one panel shall judge Execution, one panel Artistic Impression, and one panel Difficulty; in Technical Routine session, one panel shall judge Execution, one panel Impression and one panel shall judge Elements.
+>>##SS 21.2.1 A Referee
+
+>>##SS 21.2.2 An assistant referee for routines and an assistant referee for each panel of judges in figures.
+
+>>##SS 21.2.3 Each panel of Figure judges shall consist of six (6) or seven (7) judges. In Routines three (3) panels of five (5) judges shall be used. If three panels are used, in Free Routine, Free Combination and Highlight Routine sessions, one panel shall judge Execution, one panel Artistic Impression, and one panel Difficulty; in Technical Routine session, one panel shall judge Execution, one panel Impression and one panel shall judge Elements.
+
 At FINA competitions, judges shall be chosen from the FINA list of judges.
- SS 21.2.4 For each Figure panel – a clerk of course, a recorder and if no electronic system is used, two scorers.
- SS 21.2.5 For routines – three (3) timers, a clerk of course, a recorder, and if no electronic system is used, two scorers.
- SS 21.2.6 A Chief Recorder
- SS 21.2.7 Sound Center Manager
- SS 21.2.8 An announcer
- SS 21.2.9 Other officials as deemed necessary
+
+>>##SS 21.2.4 For each Figure panel – a clerk of course, a recorder and if no electronic system is used, two scorers.
+
+>>##SS 21.2.5 For routines – three (3) timers, a clerk of course, a recorder, and if no electronic system is used, two scorers.
+
+>>##SS 21.2.6 A Chief Recorder
+
+>>##SS 21.2.7 Sound Center Manager
+
+>>##SS 21.2.8 An announcer
+
+>>##SS 21.2.9 Other officials as deemed necessary
 
 <a name="referee">SS 22 REFEREE</a>
 ------------------
@@ -1146,25 +1335,49 @@ At FINA competitions, judges shall be chosen from the FINA list of judges.
 ------------------
 
 >#SS 24.1 The country holding the competition is responsible for:
-SS 24.1.1 Pool specifications and related regulations listed in rules FR 10, FR 11, FR 12 and FR 13.
-SS 24.1.2 Providing suitable equipment for reproduction of an accompaniment.
-SS.24.1.3 Providing underwater speakers which shall conform to the safety rules of the governmental jurisdiction of the hosting country.
-SS.24.1.4 Providing the entry forms.
-SS 24.1.5 Preparing a list of entries and judging forms.
-SS 24.1.6 Providing programs.
-SS 24.1.7 Providing the judges for figure and routine sessions with a means of signaling scores. When automatic Officiating Equipment is used each judge shall be provided with flash cards in case of technical failure.
-SS 24.1.8 Ensuring that BL 9.2.3 regarding practice periods prior to the start, shall apply at all FINA competitions.
-SS 24.1.9 Producing video records of all Routines and underwater video records of all Routines to enable checking the use of the bottom of the pool.
 
->#SS 24.2 The information sheet for all Synchronised Swimming competitions must include the following information.
-Pool dimensions with specific reference to the depth of the water, the water level below deck, position of diving boards, ladders, etc. A cross section drawing of the pool is desirable, and diagrams of the pools for figure session and routine sessions. In case the pool specifications are not according to FR 10, diagrams and cross section drawing are obligatory and must be sent out with meet invitation.
-SS 24.2.1 Markings of bottom and sides of the pool.
-SS 24.2.2 Position of audience with reference to the pool.
-SS 24.2.3 Type of lightning
-SS 24.2.4 Open space for entrance and exit, to include designated starting point for walk-ons.
-SS 24.2.5 Types of sound equipment available.
-SS 24.2.6 Alternative facilities, if required.
-SS 24.2.7 Schedule of events, indicating which sessions (per SS 4) will be included in the programme (SS 5) and stating whether preliminaries and finals will be held according to SS 7.1 and SS 7.2.
+>>##SS 24.1.1 Pool specifications and related regulations listed in rules FR 10, FR 11, FR 12 and FR 13.
+
+>>##SS 24.1.2 Providing suitable equipment for reproduction of an accompaniment.
+
+>>##SS.24.1.3 Providing underwater speakers which shall conform to the safety rules of the governmental jurisdiction of the hosting country.
+
+>>##SS.24.1.4 Providing the entry forms.
+
+>>##SS 24.1.5 Preparing a list of entries and judging forms.
+
+>>##SS 24.1.6 Providing programs.
+
+>>##SS 24.1.7 Providing the judges for figure and routine sessions with a means of signaling scores. When automatic Officiating Equipment is used each judge shall be provided with flash cards in case of technical failure.
+
+>>##SS 24.1.8 Ensuring that BL 9.2.3 regarding practice periods prior to the start, shall apply at all FINA competitions.
+
+>>##SS 24.1.9 Producing video records of all Routines and underwater video records of all Routines to enable checking the use of the bottom of the pool.
+
+>#SS 24.2 The information sheet for 
+all Synchronised Swimming competitions must include the following information.
+Pool dimensions with specific reference to the depth of the water,
+ the water level below deck, 
+ position of diving boards, ladders, etc. 
+ A cross section drawing of the pool is desirable, 
+ and diagrams of the pools for figure session and routine sessions. 
+ In case the pool specifications are not according to [FR 10], 
+ diagrams and cross section drawing are obligatory 
+ and must be sent out with meet invitation.
+
+>>##SS 24.2.1 Markings of bottom and sides of the pool.
+
+>>##SS 24.2.2 Position of audience with reference to the pool.
+
+>>##SS 24.2.3 Type of lightning
+
+>>##SS 24.2.4 Open space for entrance and exit, to include designated starting point for walk-ons.
+
+>>##SS 24.2.5 Types of sound equipment available.
+
+>>##SS 24.2.6 Alternative facilities, if required.
+
+>>##SS 24.2.7 Schedule of events, indicating which sessions (per SS 4) will be included in the programme (SS 5) and stating whether preliminaries and finals will be held according to SS 7.1 and SS 7.2.
 
 <a name="age-group-rules">AGE GROUP RULES</a>
 ------------------
@@ -1176,27 +1389,71 @@ SS 24.2.7 Schedule of events, indicating which sessions (per SS 4) will be inclu
 >#SSAG 2.1 All Age Group competitors remain qualified from 1 January to the following 31 December at the age they are at the close of day (12 midnight) on 31 December of the year of the competition.
 
 >#SSAG 2.2 Age Groupings for Synchronised Swimming are:
-12 years of age and under
-13 – 15 years of age
-16 – 18 years of age
-Junior: 15-18 years of age
+
+>>>>12 years of age and under
+>>>>13 – 15 years of age
+>>>>16 – 18 years of age
+>>>>Junior: 15-18 years of age
 
 >#SSAG 3 Age Group figure sessions
-SSAG 3.1 Each competitor must perform two (2) compulsory figures. One group of two (2) optional figures will be drawn as per SS 8.3.
-SSAG 3.2 Figure lists:
-The figure groups are listed in Appendix V of the Synchronised Swimming Rules. Participating Federations/ Clubs may also by mutual consent choose from other Age Groups or Senior Figure Groups for level of ability of the competitors entered in the meet.
-SSAG 3.3 The final result of the figures session will be divided by the total degree of difficulty of the group and multiplied by 10 (see SS 12.2).
 
->#SSAG 4 In a duet or team event all competitors must swim the same figure groups. The choice of the groups is optional.
+>>##SSAG 3.1 Each competitor must perform 
+two (2) compulsory figures. One group of two (2) optional figures will be drawn as per [SS 8.3].
 
->#SSAG 5 Competitors 12 and under may not swim out of their age group for routine sessions because of the time limitation.
+>>##SSAG 3.2 Figure lists:
+The figure groups are listed in [Appendix V] of the Synchronised Swimming Rules.
+ Participating Federations/ Clubs may also by mutual consent choose from 
+ other Age Groups or Senior Figure Groups for level of ability of the competitors entered in the meet.
 
->#SSAG 6 The time limits for different age groups, including ten (10) seconds of deck movements, shall be:
-Solo Duet Team Free Combination
-12 years and under 2.00 2.30 3.00 3.30 minutes
-13, 14, 15 years 2:15 2:45 3.30 4.00 minutes
-16, 17, 18 years 2.30 3.00 4.00 4.30 minutes
-Juniors: 15-18 years 2:30 3:00 4.00 4.30 minutes
+>>##SSAG 3.3 The final result of the figures session will be divided by 
+the total degree of difficulty of the group and multiplied by 10 (see [SS 12.2]).
+
+>#SSAG 4 In a duet or team event all competitors must swim the same figure groups. 
+The choice of the groups is optional.
+
+>#SSAG 5 Competitors 12 and under may not swim out of their age group for routine sessions 
+because of the time limitation.
+
+>#SSAG 6 The time limits for different age groups, 
+including ten (10) seconds of deck movements, shall be:
+
+
+>>><table>
+			<tr>
+				<td> </td>
+				<td>Solo </td>
+				<td>Duet </td>
+				<td>Team </td>
+				<td>Free Combination</td>
+			</tr>
+			<tr>
+				<td>12 years and under </td>
+				<td>2.00 </td>
+				<td>2.30 </td>
+				<td>3.00 </td>
+				<td>3.30 minutes</td>
+			</tr>
+			<tr>
+				<td>13, 14, 15 years </td>
+				<td>2:15 </td>
+				<td>2:45 </td>
+				<td>3.30 </td>
+				<td>4.00 minutes</td>
+			</tr>
+			<tr>
+				<td>16, 17, 18 years</td>
+				<td>2.30 </td>
+				<td>3.00 </td>
+				<td>4.00 </td>
+				<td>4.30 minutes</td>
+			</tr>			
+			<tr>
+				<td>Juniors</td>
+				<td>2.30 </td>
+				<td>3.00 </td>
+				<td>4.00 </td>
+				<td>4.30 minutes</td>
+			</tr>			
+>>></table>
+
 There shall be an allowance of fifteen (15) seconds less or plus the allotted time limit.
-
-

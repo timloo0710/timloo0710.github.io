@@ -1,0 +1,1014 @@
+
+APPENDIX I INTERNATIONAL FIGURE CATEGORIES
+----------------------------------------
+----------------------------------------
+
+#CATEGORY I
+
+>>><table>
+			<tr>
+				<td>101 </td>
+				<td>Ballet Leg Single</td>
+				<td>1.6</td>
+			</tr>
+			<tr >
+				<td >102</td>
+				<td >Ballet Leg Alternate</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >103</td>
+				<td >Submarine Ballet Leg Single</td>
+				<td >2.1</td>
+			</tr>
+			<tr >
+				<td >110</td>
+				<td >Ballet Leg Double</td>
+				<td >1.7</td>
+			</tr>
+			<tr >
+				<td >111</td>
+				<td >Submarine Ballet Leg Double</td>
+				<td >2.3</td>
+			</tr>
+			<tr >
+				<td >112</td>
+				<td >Ibis</td>
+				<td >2.3</td>
+			<tr >
+				<td >112a</td>
+				<td >Ibis ½ Twist</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >112b</td>
+				<td >Ibis Full Twist</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >112c</td>
+				<td >Ibis Twirl</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >112d</td>
+				<td >Ibis Spinning 180°</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >112e</td>
+				<td >Ibis Spinning 360°</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >112f</td>
+				<td >Ibis Continuous Spin</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >112g</td>
+				<td >Ibis Twist Spin</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >112h</td>
+				<td >Ibis Spin Up 180°</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >112i</td>
+				<td >Ibis Spin Up 360°</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >112j</td>
+				<td >Ibis Combined Spin</td>
+				<td >3.1</td>
+			</tr>
+			<tr >
+				<td >113</td>
+				<td >Crane</td>
+				<td >3.5</td>
+			</tr>
+			<tr >
+				<td >115</td>
+				<td >Catalina</td>
+				<td >2.3</td>
+			</tr>
+			<tr >
+				<td >115a</td>
+				<td >Catalina ½ Twist</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >115b</td>
+				<td >Catalina Full Twist</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >115c</td>
+				<td >Catalina Twirl</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >115d</td>
+				<td >Catalina Spinning 180°</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >115e</td>
+				<td >Catalina Spinning 360°</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >115f</td>
+				<td >Catalina Continuous Spin</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >115g</td>
+				<td >Catalina Twist Spin</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >115h</td>
+				<td >Catalina Spin Up 180°</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >115i</td>
+				<td >Catalina Spin Up 360°</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >115j</td>
+				<td >Catalina Combined Spin</td>
+				<td >3.1</td>
+			</tr>
+			<tr >
+				<td >116</td>
+				<td >Catalarc</td>
+				<td >3.1</td>
+			</tr>
+			<tr >
+				<td >117</td>
+				<td >Catalarc Open 180°</td>
+				<td >3.2</td>
+			</tr>
+			<tr >
+				<td >118</td>
+				<td >Helicopter</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >125</td>
+				<td >Eiffel Tower</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >125a</td>
+				<td >Eiffel Tower ½ Twist</td>
+				<td >3.2</td>
+			</tr>
+			<tr >
+				<td >125b</td>
+				<td >Eiffel Tower Full Twist</td>
+				<td >3.4</td>
+			</tr>
+			<tr >
+				<td >125c</td>
+				<td >Eiffel Tower Twirl</td>
+				<td >3.3</td>
+			</tr>
+			<tr >
+				<td >125d</td>
+				<td >Eiffel Tower Spinning 180°</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >125e</td>
+				<td >Eiffel Tower Spinning 360°</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >125f</td>
+				<td >Eiffel Tower Continuous Spin</td>
+				<td >3.3</td>
+			</tr>
+			<tr >
+				<td >125g</td>
+				<td >Eiffel Tower Twist Spin</td>
+				<td >3.5</td>
+			</tr>
+			<tr >
+				<td >125h</td>
+				<td >Eiffel Tower Spin Up 180°</td>
+				<td >3.1</td>
+			</tr>
+			<tr >
+				<td >125i</td>
+				<td >Eiffel Tower Spin Up 360°</td>
+				<td >3.2</td>
+			</tr>
+			<tr >
+				<td >128</td>
+				<td >Eiffel Walk</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >130</td>
+				<td >Flamingo</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >130a</td>
+				<td >Flamingo ½ Twist</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >130b</td>
+				<td >Flamingo Full Twist</td>
+				<td >3.1</td>
+			</tr>
+			<tr >
+				<td >130c</td>
+				<td >Flamingo Twirl</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >130d</td>
+				<td >Flamingo Spinning 180°</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >130e</td>
+				<td >Flamingo Spinning 360°</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >130f</td>
+				<td >Flamingo Continuous Spin</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >130g</td>
+				<td >Flamingo Twist Spin</td>
+				<td >3.2</td>
+			</tr>
+			<tr >
+				<td >130h</td>
+				<td >Flamingo Spin Up 180°</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >130i</td>
+				<td >Flamingo Spin Up 360°</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >130j</td>
+				<td >Flamingo Combined Spin</td>
+				<td >3.3</td>
+			</tr>
+			<tr >
+				<td >140</td>
+				<td >Flamingo Bent Knee</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >140a</td>
+				<td >Flamingo Bent Knee ½ Twist</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >140b</td>
+				<td >Flamingo Bent Knee Full Twist</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >140c</td>
+				<td >Flamingo Bent Knee Twirl</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >140d</td>
+				<td >Flamingo Bent Knee Spinning 180°</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >140e</td>
+				<td >Flamingo Bent Knee Spinning 360°</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >140f</td>
+				<td >Flamingo Bent Knee Continuous Spin</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >140g</td>
+				<td >Flamingo Bent Knee Twist Spin</td>
+				<td >3.1</td>
+			</tr>
+			<tr >
+				<td >140h</td>
+				<td >Flamingo Bent Knee Spin Up 180°</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >140i</td>
+				<td >Flamingo Bent Knee Spin Up 360°</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >140j</td>
+				<td >Flamingo Bent Knee Combined Spin</td>
+				<td >3.2</td>
+			</tr>
+			<tr >
+				<td >141</td>
+				<td >Stingray</td>
+				<td >3.3</td>
+			</tr>
+			<tr >
+				<td >142</td>
+				<td >Manta Ray</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >150</td>
+				<td >Knight</td>
+				<td >3.1</td>
+			</tr>
+			<tr >
+				<td >154</td>
+				<td >London</td>
+				<td >2.8</td>
+			</tr>
+
+>>></table>
+
+#CATEGORY II
+
+>>><table>
+			<tr>
+				<td>201 </td>
+				<td>Dolphin</td>
+				<td>1.4</td>
+			</tr>
+			<tr >
+				<td >240</td>
+				<td >Albatross</td>
+				<td >2.2</td>
+			</tr>
+			<tr >
+				<td >240a</td>
+				<td >Albatross ½ Twist</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >240b</td>
+				<td >Albatross Full Twist</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >240c</td>
+				<td >Albatross Twirl</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >240d</td>
+				<td >Albatross Spinning 180°</td>
+				<td >2.3</td>
+			</tr>
+			<tr >
+				<td >240e</td>
+				<td >Albatross Spinning 360°</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >240h</td>
+				<td >Albatross Spin Up 180°</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >240i</td>
+				<td >Albatross Spin Up 360°</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >240j</td>
+				<td >Albatross Combined Spin</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >241</td>
+				<td >Goeland</td>
+				<td >2.0</td>
+			</tr>
+>>></table>
+
+# CATEGORY III
+
+>>><table>
+			<tr>
+				<td>301 </td>
+				<td>Barracuda</td>
+				<td>2.0</td>
+			</tr>
+			<tr >
+				<td >301c</td>
+				<td >Barracuda Twirl</td>
+				<td >2.6</td>
+			</tr>
+			<tr >
+				<td >301d</td>
+				<td >Barracuda Spinning 180°</td>
+				<td >2.1</td>
+			</tr>
+			<tr >
+				<td >301e</td>
+				<td >Barracuda Spinning 360°</td>
+				<td >2.2</td>
+			</tr>
+			<tr >
+				<td >301f</td>
+				<td >Barracuda Continuous Spin</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >301h</td>
+				<td >Barracuda Spin Up 180°</td>
+				<td >2.3</td>
+			</tr>
+			<tr >
+				<td >301i</td>
+				<td >Barracuda Spin Up 360°</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >301j</td>
+				<td >Barracuda Combined Spin</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >302</td>
+				<td >Blossom</td>
+				<td >1.4</td>
+			</tr>
+			<tr >
+				<td >303</td>
+				<td >Somersault Back Pike</td>
+				<td >1.5</td>
+			</tr>
+			<tr>
+				<td >305</td>
+				<td >Barracuda Somersault Back Pike</td>
+				<td >2.3</td>
+			</tr>
+			<tr>
+				<td >305c</td>
+				<td >Barracuda Somersault Back Pike Twirl</td>
+				<td >2.9</td>
+			</tr>
+			<tr>
+				<td >305d</td>
+				<td >Barracuda Somersault Back Pike Spinning 180°</td>
+				<td >2.4</td>
+			</tr>
+			<tr>
+				<td >305e</td>
+				<td >Barracuda Somersault Back Pike Spinning 360°</td>
+				<td >2.5</td>
+			</tr>
+			<tr>
+				<td >305f</td>
+				<td >Barracuda Somersault Back Pike Continuous Spin</td>
+				<td >3.1</td>
+			</tr>
+			<tr>
+				<td >305h</td>
+				<td >Barracuda Somersault Back Pike Spin Up 180°</td>
+				<td >2.6</td>
+			</tr>
+			<tr>
+				<td >305i</td>
+				<td >Barracuda Somersault Back Pike Spin Up 360°</td>
+				<td >2.7</td>
+			</tr>
+			<tr>
+				<td >305j</td>
+				<td >Barracuda Somersault Back Pike Combined Spin</td>
+				<td >3.1</td>
+			</tr>
+			<tr>
+				<td >306</td>
+				<td >Barracuda Bent Knee</td>
+				<td >2.0</td>
+			</tr>
+			<tr>
+				<td >306d</td>
+				<td >Barracuda Bent Knee Spinning 180°</td>
+				<td >2.1</td>
+			</tr>
+			<tr>
+				<td >306e</td>
+				<td >Barracuda Bent Knee Spinning 360°</td>
+				<td >2.2</td>
+			</tr>
+			<tr>
+				<td >307</td>
+				<td >Flying Fish</td>
+				<td >3.0</td>
+			</tr>
+			<tr>
+				<td >307d</td>
+				<td >Flying Fish Spinning 180°</td>
+				<td >3.1</td>
+			</tr>
+			<tr>
+				<td >307e</td>
+				<td >Flying Fish Spinning 360°</td>
+				<td >3.2</td>
+			</tr>
+			<tr>
+				<td >308</td>
+				<td >Flying Fish</td>
+				<td >2.8</td>
+			</tr>
+			<tr>
+				<td >310</td>
+				<td >Somersault Back Tuck</td>
+				<td >1.1</td>
+			</tr>
+			<tr>
+				<td >311</td>
+				<td >Kip</td>
+				<td >1.8</td>
+			</tr>
+			<tr>
+				<td >311a</td>
+				<td >Kip ½ Twist</td>
+				<td >2.2</td>
+			</tr>
+			<tr>
+				<td >311b</td>
+				<td >Kip Full Twist</td>
+				<td >2.4</td>
+			</tr>
+			<tr>
+				<td >311c</td>
+				<td >Kip Twirl</td>
+				<td >2.3</td>
+			</tr>
+			<tr>
+				<td >311d</td>
+				<td >Kip Spinning 360°</td>
+				<td >1.9</td>
+			</tr>
+			<tr>
+				<td >311e</td>
+				<td >Kip Spinning 360°</td>
+				<td >2.0</td>
+			</tr>
+			<tr>
+				<td >311f</td>
+				<td >Kip Continuous Spin</td>
+				<td >2.3</td>
+			</tr>
+			<tr>
+				<td >311g</td>
+				<td >Kip Twist Spin</td>
+				<td >2.5</td>
+			</tr>
+			<tr>
+				<td >311h</td>
+				<td >Kip Spin Up 180°</td>
+				<td >2.1</td>
+			</tr>
+			<tr>
+				<td >311i</td>
+				<td >Kip Spin Up 360°</td>
+				<td >2.2</td>
+			</tr>
+			<tr>
+				<td >311j</td>
+				<td >Kip Combined Spin</td>
+				<td >2.6</td>
+			</tr>
+			<tr>
+				<td >312</td>
+				<td >Kip Split</td>
+				<td >2.4</td>
+			</tr>			
+			<tr>
+				<td >313</td>
+				<td >Kip Split Closing 180°</td>
+				<td >2.5</td>
+			</tr>			
+			<tr>
+				<td >314</td>
+				<td >Kip Split Open 360°</td>
+				<td >3.2</td>
+			</tr>			
+			<tr>
+				<td >315</td>
+				<td >Kipnus</td>
+				<td >1.6</td>
+			</tr>			
+			<tr>
+				<td >315b</td>
+				<td >Kipnus Variant</td>
+				<td >2.1</td>
+			</tr>			
+			<tr>
+				<td >316</td>
+				<td >Kip Bent Knee</td>
+				<td >2.0</td>
+			</tr>			
+			<tr>
+				<td >317</td>
+				<td >Kipswirl</td>
+				<td >2.3</td>
+			</tr>			
+			<tr>
+				<td >317c</td>
+				<td >Kipswirl Twirl</td>
+				<td >2.8</td>
+			</tr>			
+			<tr>
+				<td >317d</td>
+				<td >Kipswirl Spinning 180°</td>
+				<td >2.4</td>
+			</tr>			
+			<tr>
+				<td >317e</td>
+				<td >Kipswirl Spinning 360°</td>
+				<td >2.5</td>
+			</tr>			
+			<tr>
+				<td >317f</td>
+				<td >Kipswirl Continuous Spin</td>
+				<td >2.8</td>
+			</tr>	
+			<tr>
+				<td >318</td>
+				<td >Elevator</td>
+				<td >2.8</td>
+			</tr>			
+			<tr>
+				<td >320</td>
+				<td >Somersault Front Pike</td>
+				<td >1.7</td>
+			</tr>			
+			<tr>
+				<td >321</td>
+				<td >Somersub</td>
+				<td >2.0</td>
+			</tr>			
+			<tr>
+				<td >322</td>
+				<td >Subalina</td>
+				<td >2.3</td>
+			</tr>			
+			<tr>
+				<td >323</td>
+				<td >Subilarc</td>
+				<td >3.1</td>
+			</tr>			
+			<tr>
+				<td >324</td>
+				<td >Ballerina</td>
+				<td >2.0</td>
+			</tr>			
+			<tr>
+				<td >325</td>
+				<td >Jupiter</td>
+				<td >2.8</td>
+			</tr>			
+			<tr>
+				<td >326</td>
+				<td >Lagoon</td>
+				<td >2.7</td>
+			</tr>
+			<tr>
+				<td >330</td>
+				<td >Aurora</td>
+				<td >2.5</td>
+			</tr>			
+			<tr>
+				<td >330a</td>
+				<td >Aurora ½ Twist</td>
+				<td >2.9</td>
+			</tr>			
+			<tr>
+				<td >330c</td>
+				<td >Aurora Twirl</td>
+				<td >3.0</td>
+			</tr>			
+			<tr>
+				<td >330d</td>
+				<td >Aurora Spinning 180°</td>
+				<td >2.6</td>
+			</tr>			
+			<tr>
+				<td >330e</td>
+				<td >Aurora Spinning 360°</td>
+				<td >2.7</td>
+			</tr>			
+			<tr>
+				<td >330f</td>
+				<td >Aurora Continuous Spin</td>
+				<td >3.0</td>
+			</tr>			
+			<tr>
+				<td >330g</td>
+				<td >Aurora Twist Spin</td>
+				<td >3.2</td>
+			</tr>			
+			<tr>
+				<td >331</td>
+				<td >Aurora Open 180°</td>
+				<td >3.3</td>
+			</tr>			
+			<tr>
+				<td >332</td>
+				<td >Aurora Open 360°</td>
+				<td >3.4</td>
+			</tr>			
+			<tr>
+				<td >335</td>
+				<td >Gaviata</td>
+				<td >2.7</td>
+			</tr>			
+			<tr>
+				<td >336</td>
+				<td >Gaviata Open 180°</td>
+				<td >2.8</td>
+			</tr>			
+			<tr>
+				<td >342</td>
+				<td >Heron</td>
+				<td >2.1</td>
+			</tr>			
+			<tr>
+				<td >342c</td>
+				<td >Heron Twirl</td>
+				<td >2.7</td>
+			</tr>			
+			<tr>
+				<td >342d</td>
+				<td >Heron Spinning 180°</td>
+				<td >2.2</td>
+			</tr>			
+			<tr>
+				<td >342e</td>
+				<td >Heron Spinning 360°</td>
+				<td >2.3</td>
+			</tr>			
+			<tr>
+				<td >342f</td>
+				<td >Heron Continuous Spin</td>
+				<td >2.9</td>
+			</tr>			
+			<tr>
+				<td >342h</td>
+				<td >Heron Spin Up 180°</td>
+				<td >2.4</td>
+			</tr>			
+			<tr>
+				<td >342i</td>
+				<td >Heron Spin Up 360°</td>
+				<td >2.5</td>
+			</tr>			
+			<tr>
+				<td >342j</td>
+				<td >Heron Combined Spin</td>
+				<td >2.9</td>
+			</tr>			
+	
+>>></table>
+343
+Butterfly
+2.9
+344
+Neptunus
+1.8
+345
+Catalina Reverse
+2.1
+346
+Side Fishtail Split
+2.0
+347
+Beluga
+2.3
+348
+Dalecarlia
+2.4
+349
+Tower
+1.9
+350
+Minerva
+2.2
+355
+Porpoise
+1.9
+355a
+Porpoise ½ Twist
+2.3
+355b
+Porpoise Full Twist
+2.5
+355c
+Porpoise Twirl
+2.4
+355d
+Porpoise Spinning 180°
+2.0
+355e
+Porpoise Spinning 360°
+2.1
+355f
+Porpoise Continuous Spin
+2.4
+355g
+Porpoise Twist Spin
+2.6
+355h
+Porpoise Spin Up 180°
+2.2
+355i
+Porpoise Spin Up 360°
+2.3
+355j
+Porpoise Combined Spin
+2.7
+360
+Walkover Front
+2.1
+361
+Prawn
+1.6
+362
+Surface Prawn
+1.4
+363
+Water Drop
+1.6
+
+#CATEGORY IV
+
+>>><table>
+			<tr>
+				<td>401 </td>
+				<td>Swordfish</td>
+				<td>2.0</td>
+			</tr>
+			<tr >
+				<td >402</td>
+				<td >Swordasub</td>
+				<td >2.3</td>
+			</tr>
+			<tr >
+				<td >403</td>
+				<td >Swordtail</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >405</td>
+				<td >Swordalina</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >406</td>
+				<td >Swordfish Straight Leg</td>
+				<td >2.0</td>
+			</tr>
+			<tr >
+				<td >410</td>
+				<td >Hightower</td>
+				<td >3.3</td>
+			</tr>
+			<tr >
+				<td >413</td>
+				<td >Alba</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >420</td>
+				<td >Walkover Back</td>
+				<td >2.0</td>
+			</tr>
+			<tr >
+				<td >421</td>
+				<td >Walkover Back Closing 360°</td>
+				<td >2.2</td>
+			</tr>
+			<tr >
+				<td >423</td>
+				<td >Ariana</td>
+				<td >2.2</td>
+			</tr>
+			<tr >
+				<td >435</td>
+				<td >Nova</td>
+				<td >2.3</td>
+			</tr>
+			<tr >
+				<td >435c</td>
+				<td >Nova Twirl</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >435d</td>
+				<td >Nova Spinning 180°</td>
+				<td >2.4</td>
+			</tr>
+			<tr >
+				<td >435e</td>
+				<td >Nova Spinning 360°</td>
+				<td >2.5</td>
+			</tr>
+			<tr >
+				<td >435f</td>
+				<td >Nova Continuous Spin</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >435g</td>
+				<td >Nova Twist Spin</td>
+				<td >3.0</td>
+			</tr>
+			<tr >
+				<td >436</td>
+				<td >Cyclone</td>
+				<td >2.7</td>
+			</tr>
+			<tr >
+				<td >436c</td>
+				<td >Cyclone Twirl</td>
+				<td >3.2</td>
+			</tr>
+			<tr >
+				<td >436d</td>
+				<td >Cyclone Spinning 180°</td>
+				<td >2.8</td>
+			</tr>
+			<tr >
+				<td >436e</td>
+				<td >Cyclone Spinning 360°</td>
+				<td >2.9</td>
+			</tr>
+			<tr >
+				<td >436f</td>
+				<td >Cyclone Continuous Spin</td>
+				<td >3.2</td>
+			</tr>
+			<tr >
+				<td >437</td>
+				<td >Oceanea</td>
+				<td >2.1</td>
+			</tr>
+				<td >439</td>
+				<td >Oceanita</td>
+				<td >1.9</td>
+			</tr>
+>>></table>
+
+APPENDIX II
+--------------
+
+>#BASIC POSITIONS
+
+>>*In all basic positions:
+>>>**a) arm positions are optional,
+>>>**b) toes must be pointed,
+>>>**c) the legs, trunk and neck fully extended unless otherwise specified, and
+>>>**d) diagrams show the usual water levels.
+
+>#1 BACK LAYOUT POSITION
+>>Body extended with face, chest, thighs and feet at the surface. 
+Head (ears specifically), hips, and ankles in line.
+
+>#2 FRONT LAYOUT POSITION
+>>Body extended with head, upper back, buttocks and heels at the surface. 
+Face may be in or out of the water.
+
+>#3 BALLET LEG POSITION
+>>>**a) Surface
+>>>>Body in Back Layout Position. One leg extended perpendicular to the surface
+>>>**b) Submerged
+>>>>Head, trunk and horizontal leg parallel to the surface. 
+One leg perpendicular to the surface with the water level between the knee and the ankle.
+
+>#4 FLAMINGO POSITION
+>>>**a) Surface
+>>>>One leg extended perpendicular to the surface. 
+The other leg drawn to the chest with the mid-calf opposite the vertical leg, 
+foot and knee at and parallel to the surface. Face at the surface.
+>>>**b) Submerged
+>>>>Trunk, head and shin of the bent leg parallel to the surface. 
+90 angle between the trunk and extended leg. 
+Water level between knee and ankle of the extended leg
